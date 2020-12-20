@@ -71,7 +71,7 @@ a[href^="https://github.com"] {
 /* Body
 -------------------------------------------------------------- */
 
-#body { margin-top: 20px; }
+#body { margin-top: 5px; }
 
 #introduction { float: left; width: 480px; margin-right: 130px; }
 
