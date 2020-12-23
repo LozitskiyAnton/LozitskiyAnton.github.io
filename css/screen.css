@@ -53,6 +53,10 @@ a[href^="https://t.me"] {
     background: url(../img/telegram.png) no-repeat center left;
 }
 
+a[href^="https://wa.me"] {
+    padding-left: 20px !important;
+    background: url(../img/whatsapp.png) no-repeat center left;
+}
 
 a[href^="https://stackoverflow.com"] {
     padding-left: 20px !important;
