@@ -58,6 +58,11 @@ a[href^="https://wa.me"] {
     background: url(../img/whatsapp.png) no-repeat center left;
 }
 
+a[href^="../img/R.doc"] {
+    padding-left: 20px !important;
+    background: url(../img/word.png) no-repeat center left;
+}
+
 a[href^="https://stackoverflow.com"] {
     padding-left: 20px !important;
     background: url(../img/so.png) no-repeat center left;
