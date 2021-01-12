@@ -63,6 +63,11 @@ a[href^="../img"] {
     background: url(../img/word.png) no-repeat center left;
 }
 
+a[href^="https://join.skype.com"] {
+    padding-left: 20px !important;
+    background: url(../img/skype.png) no-repeat center left;
+}
+
 a[href^="https://stackoverflow.com"] {
     padding-left: 20px !important;
     background: url(../img/so.png) no-repeat center left;
